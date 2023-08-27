@@ -1,0 +1,1 @@
+Explore a collection of JavaScript animations in this portfolio repository.
